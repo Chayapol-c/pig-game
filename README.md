@@ -1,7 +1,9 @@
 # pig-game
-Javascript Project from Udemy course The Complete JavaScript Course 2021: From Zero to Expert! teach by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
+Javascript Project from Udemy course [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) teach by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
 
-## Rule (ref [Gameplay](https://en.wikipedia.org/wiki/Pig_(dice_game)))
+## Rule 
+(*ref [Gameplay](https://en.wikipedia.org/wiki/Pig_(dice_game))*)
+
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
 
 If the player rolls a 1, they score nothing and it becomes the next player's turn.
